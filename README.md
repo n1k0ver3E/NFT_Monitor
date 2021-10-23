@@ -2,8 +2,8 @@
 This is a telegram bot for monitoring price and ranking of NFT on Binance Smart Chain.
 
 Can fetch latest ranking and price in real time.
-- ``/Pancake_NFT/nft-web3.py``: Main file to fetch transaction and log through web3.
-- ``/Pancake_NFT/pancake_nft.py``: Original version to fetch log from bscscan. Now aborted.
+- ``.Pancake_NFT/nft-web3.py``: Main file to fetch transaction and log through web3.
+- ``.Pancake_NFT/pancake_nft.py``: Original version to fetch log from bscscan. Now aborted.
 
 ## 0x00 Requirement
 
