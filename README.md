@@ -38,7 +38,7 @@ Now, default value is fetch from `PancakeSwapSquad` NFT.
 
 ## 0x02 Interface 
 
-![image-20211023162759858](https://cdn.jsdelivr.net/gh/pyf0311/myPrivateIMGBed/markdown/1634978029980.png)
+![image-20211023162759858](https://cdn.jsdelivr.net/gh/pyf0311/myPrivateIMGBed/markdown/1634980306735.png)
 
 ## 0x03 Rewards
 If u think this project is helpful, would u like to buy me a cup of coffee?
